@@ -1,0 +1,19 @@
+﻿  Background.cpp
+  BallAmmo.cpp
+  Enemy.cpp
+  EnemypathFinding.cpp
+  Gameloop.cpp
+  GolfBall.cpp
+  GolfClub.cpp
+  LoseScreen.cpp
+  Main.cpp
+  MainMenu.cpp
+  Player.cpp
+  PlayerUI.cpp
+  Projectile.cpp
+  StateMachine.cpp
+  TileMap.cpp
+  WinScreen.cpp
+  deltaTime.cpp
+  Generating Code...
+  BattleGolf.vcxproj -> C:\Users\tingl\OneDrive\Desktop\C++ Module\milestones-ClaymoreKiwi\Assignment\x64\Debug\BattleGolf.exe
